@@ -1,5 +1,5 @@
 # 8weeksqlchallenge.com
-Practice weekly interactive SQL case studies and comprehensive curated list of free SQL learning resources
+Practice weekly interactive SQL case studies and comprehensive curated list of SQL learning resources. 
 -----------
 - Case Study #1 - Danny’s Diner
 - Case Study #2 - Pizza Runner
