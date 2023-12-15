@@ -1,5 +1,6 @@
 # 8weeksqlchallenge.com
-Practice weekly interactive SQL case studies and comprehensive curated list of SQL learning resources. 
+This repostitory contain my solution interactive SQL case studies and comprehensive curated list of SQL learning resources for the #8WeekSQLChallenge using MS SQL Server.
+I send my sincerely thanks to @DataWithDanny for interesting SQL case studies! :wave:🏻
 -----------
 - Case Study #1 - Danny’s Diner
 - Case Study #2 - Pizza Runner
