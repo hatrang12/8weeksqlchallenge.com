@@ -1,6 +1,6 @@
 # 🍜 Case Study #1 - Danny's Diner
 <p align="center">
-<img src="https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/IMG/1.png" align="center" width="400" height="400" >
+![1](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/62363e5d-2a71-424d-8fbf-2a145453f50d)
 
 ---
 ## 🛠️ Business Task
@@ -9,7 +9,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 ---
 ## 🔐 Entity Relationship Diagram
 <p align="center">
-xxx
+![entity_relationship_diagram](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/3b60a313-5057-43a8-9400-ce82cce2ed58)
 
 ---
 ## ❓ Case Study Questions
