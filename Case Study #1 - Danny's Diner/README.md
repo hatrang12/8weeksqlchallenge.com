@@ -1,6 +1,5 @@
 # 🍜 Case Study #1 - Danny's Diner
-<p align="center">
-![1](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/62363e5d-2a71-424d-8fbf-2a145453f50d)
+![1](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/237f4bc7-df74-4b4c-b80f-a7ad06b08cf6)
 
 ---
 ## 🛠️ Business Task
@@ -8,8 +7,8 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ---
 ## 🔐 Entity Relationship Diagram
-<p align="center">
-![entity_relationship_diagram](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/3b60a313-5057-43a8-9400-ce82cce2ed58)
+![entity_relationship_diagram](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/609e8394-6a51-4215-9591-c6d547403877)
+
 
 ---
 ## ❓ Case Study Questions
