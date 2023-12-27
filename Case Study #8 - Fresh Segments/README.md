@@ -1,5 +1,6 @@
 # 🍊 Case Study #8 - Fresh Segments
-![8](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/91e5d8be-22d2-41e4-a8fe-33f2bc21e9e6)
+<p align="center">
+<img src="https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/8.png" align="center" width="400" height="400" >
 
 ## 📕 Table of Contents
 * [Business Task]
