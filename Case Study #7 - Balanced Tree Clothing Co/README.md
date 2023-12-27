@@ -1,7 +1,5 @@
 # 👕 Case Study #7 - Balanced Tree Clothing Co.
-
-<p align="center">
-<img src="https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/IMG/7.png" align="center" width="400" height="400" >
+![7](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/0feb00af-d0e6-4a7b-9f33-2a5dcffc213f)
 
 ## 📕 Table of Contents
 * [Business Task]
@@ -20,17 +18,15 @@ and generate a basic financial report to share with the wider business.
 ---
 ## 🔐 Entity Relationship Diagram
 ### Regular questions
-<p align="center">
-XXX
+![e7 1](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/4ad8eb61-725d-4197-ad10-2f07536d9e62)
 
 ### Bonus question
-<p align="center">
-XXX
+![e7 2](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/d1340f60-6588-47c9-9b06-42525cb22219)
 
 ---
 ## ❓ Case Study Questions
 ### A. High Level Sales Analysis
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/A.%20High%20Level%20Sales%20Analysis.md)
 
 1. What was the total quantity sold for all products?
 2. What is the total generated revenue for all products before discounts?
@@ -38,7 +34,7 @@ View my solution [HERE]XXX
 
 ---
 ### B. Transaction Analysis
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/B.%20Transaction%20Analysis.md)
 
 1. How many unique transactions were there?
 2. What is the average unique products purchased in each transaction?
@@ -49,7 +45,7 @@ View my solution [HERE]XXX
 
 ---
 ### C. Product Analysis
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/C.%20Product%20Analysis.md)
 
 1. What are the top 3 products by total revenue before discount?
 2. What is the total quantity, revenue and discount for each segment?
@@ -64,11 +60,6 @@ View my solution [HERE]XXX
 
 ---
 ### D. Bonus Challenge
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co/D.%20Bonus%20Question.md)
 
 Use a single SQL query to transform the `product_hierarchy` and `product_prices` datasets to the `product_details` table.
-
----
-## 🚀 My Solution
-* View the complete syntax [HERE]XXX
-* View the result and explanation [HERE]XXX
