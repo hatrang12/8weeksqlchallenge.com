@@ -1,6 +1,5 @@
 # 🐟 Case Study #6 - Clique Bait
-<p align="center">
-XXX
+![6](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/b06bcdb8-dea1-4070-b44f-b12d184549e9)
 
 ## 📕 Table of Contents
 * [Business Task]
@@ -18,13 +17,12 @@ In this case study - you are required to support Danny’s vision and analyse hi
 
 ---
 ## 🔐 Entity Relationship Diagram
-<p align="center">
-XXX
+![e6](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/87d73eaa-2a77-4bf9-974a-ff8705ffa0bc)
 
 ---
 ## ❓ Case Study Questions
 ### A. Digital Analysis
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/A.%20Digital%20Analysis.md)
 
 Using the available datasets - answer the following questions using a single query for each one:
 1. How many users are there?
@@ -39,7 +37,7 @@ Using the available datasets - answer the following questions using a single que
 
 ---
 ### B. Product Funnel Analysis
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/B.%20Product%20Funnel%20Analysis.md)
 
 Using a single SQL query - create a new output table which has the following details:
   * How many times was each product viewed?
@@ -58,7 +56,7 @@ Use your 2 new output tables - answer the following questions:
 
 ---
 ### C. Campaigns Analysis
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%236%20-%20Clique%20Bait/C.%20Campaigns%20Analysis.md)
 
 Generate a table that has 1 single row for every unique visit_id record and has the following columns:
   * `user_id`
@@ -81,7 +79,3 @@ and comparing each metric with other users who did not have an impression event
 users who do not receive an impression? What if we compare them with users who have just an impression but do not click?
 - What metrics can you use to quantify the success or failure of each campaign compared to each other?
   
----
-## 🚀 My Solution
-* View the complete syntax [HERE]XXX
-* View the result and explanation [HERE]XXX
