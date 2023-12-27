@@ -1,6 +1,6 @@
 # 🥑 Case Study #3 - Foodie-Fi
 <p align="center">
-<img src="https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/4.png" align="center" width="400" height="400" >
+<img src="https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/3.png" align="center" width="400" height="400" >
 
 ## 📕 Table of Contents
 * [Business Task]
