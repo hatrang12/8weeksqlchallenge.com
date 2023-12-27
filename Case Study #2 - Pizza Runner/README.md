@@ -1,5 +1,6 @@
 # 🍕 Case Study #2 - Pizza Runner
-![2](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/a855d9ea-686f-44ee-834e-884313d3f279)
+<p align="center">
+<img src="https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/2.png" align="center" width="400" height="400" >
   
 ## 📕 Table of Contents
 * [Business Task]
