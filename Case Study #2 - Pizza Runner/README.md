@@ -20,7 +20,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 ---
 ## ❓ Case Study Questions
 ### A. Pizza Metrics
-View my solution [HERE] (https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
 
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
@@ -35,7 +35,7 @@ View my solution [HERE] (https://github.com/hatrang12/8weeksqlchallenge.com/blob
 
 ---
 ### B. Runner and Customer Experience
-View my solution [HERE] 
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md)
 xxx
 
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
@@ -48,7 +48,7 @@ xxx
 
 ---
 ### C. Ingredient Optimisation
-View my solution [HERE]
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/C.%20Ingredient%20Optimisation.md)
 xxx
 
 1. What are the standard ingredients for each pizza?
@@ -65,7 +65,7 @@ xxx
 
 ---
 ### D. Pricing and Ratings
-View my solution [HERE] xxx
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/D.%20Pricing%20and%20Ratings.md)
 
 1. If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
 2. What if there was an additional $1 charge for any pizza extras?
@@ -86,11 +86,7 @@ View my solution [HERE] xxx
 
 ---
 ### E. Bonus questions
-View my solution [HERE] xxx
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/E.%20Bonus%20Questions.md)
 
 If Danny wants to expand his range of pizzas - how would this impact the existing data design? Write an ```INSERT``` statement to demonstrate what would happen if a new ```Supreme``` pizza with all the toppings was added to the Pizza Runner menu?
 
----
-## 🚀 My Solution
-* View the complete syntax [HERE] xxx
-* View the result and explanation [HERE] xxx
