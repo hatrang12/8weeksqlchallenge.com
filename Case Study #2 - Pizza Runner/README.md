@@ -1,6 +1,5 @@
 # 🍕 Case Study #2 - Pizza Runner
-<p align="center">
-<img src="https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/IMG/2.png" align="center" width="400" height="400" >
+![2](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/a855d9ea-686f-44ee-834e-884313d3f279)
   
 ## 📕 Table of Contents
 * [Business Task]
@@ -16,14 +15,12 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ---
 ## 🔐 Entity Relationship Diagram
-<p align="center">
-xxx
+![Capture](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/125a8459-cef9-4912-993b-cbb22a775fe1)
 
 ---
 ## ❓ Case Study Questions
 ### A. Pizza Metrics
-View my solution [HERE]
-xxx
+View my solution [HERE] https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md
 
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
@@ -38,7 +35,7 @@ xxx
 
 ---
 ### B. Runner and Customer Experience
-View my solution [HERE]
+View my solution [HERE] 
 xxx
 
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
