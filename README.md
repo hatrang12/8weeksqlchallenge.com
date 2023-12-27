@@ -67,7 +67,7 @@ The management team at Data Bank want to increase their total customer base - bu
 
 This case study is all about calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future developments!
 
-***View the case study [here](https://8weeksqlchallenge.com/case-study-4/) and my solution [here](![Capture](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/00b2ae9e-7120-4dbf-b659-bf53a8d2bec6).***
+***View the case study [here](https://8weeksqlchallenge.com/case-study-4/) and my solution [here](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%234%20-%20Data%20Bank/A.%20Customer%20Nodes%20Exploration.md).***
   
 ---
 ## 🛒 Case Study #5 - Data Mart
