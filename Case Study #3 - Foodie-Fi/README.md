@@ -1,7 +1,6 @@
 # 🥑 Case Study #3 - Foodie-Fi
-<p align="center">
-<img src="https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/IMG/3.png" align="center" width="400" height="400" >
-  
+![3](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/fb974f48-719e-4284-ad28-d40a0d98c70b)
+
 ## 📕 Table of Contents
 * [Business Task]
 * [Entity Relationship Diagram]
@@ -18,18 +17,17 @@ Danny and his friends launched a new startup called "Food-Fi" in 2020 and starte
 
 ---
 ## 🔐 Entity Relationship Diagram
-<p align="center">
-xxx
+![Capture](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/7db9db93-971c-4fda-9e2e-c4a9b68b8fd7)
 
 ---
 ## ❓ Case Study Questions
 ### A. Customer Journey
-View my solution [HERE]xxx
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/A.%20Customer%20Journey.md)
 * Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
 
 ---
 ### B. Data Analysis Questions
-View my solution [HERE]xxx
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/B.%20Data%20Analysis%20Questions.md)
 
 1. How many customers has Foodie-Fi ever had?
 2. What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
@@ -45,7 +43,7 @@ View my solution [HERE]xxx
 
 ---
 ### C. Challenge Payment Question
-View my solution [HERE]xxx
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/C.%20Challenge%20Payment%20Question.md)
 
 The Foodie-Fi team wants to create a new payments table for the year 2020 that includes amounts paid by each customer in the subscriptions table with the following requirements:
   * monthly payments always occur on the same day of month as the original start_date of any monthly paid plan
@@ -55,7 +53,7 @@ The Foodie-Fi team wants to create a new payments table for the year 2020 that i
 
 ---
 ### D. Outside The Box Questions 
-View my solution [HERE]xxx
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/D.%20Outside%20The%20Box%20Questions.md)
 
 1. How would you calculate the rate of growth for Foodie-Fi?
 2. What key metrics would you recommend Foodie-Fi management to track over time to assess performance of their overall business?
@@ -63,7 +61,3 @@ View my solution [HERE]xxx
 4. If the Foodie-Fi team were to create an exit survey shown to customers who wish to cancel their subscription, what questions would you include in the survey?
 5. What business levers could the Foodie-Fi team use to reduce the customer churn rate? How would you validate the effectiveness of your ideas?
 
----
-## 🚀 My Solution
-* View the complete syntax [HERE]xxx
-* View the result and explanation [HERE]xxx
