@@ -1,5 +1,6 @@
 # 🥑 Case Study #3 - Foodie-Fi
-![3](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/fb974f48-719e-4284-ad28-d40a0d98c70b)
+<p align="center">
+<img src="https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/3.png" align="center" width="400" height="400" >
 
 ## 📕 Table of Contents
 * [Business Task]
