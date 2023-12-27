@@ -1,7 +1,5 @@
 # 🍊 Case Study #8 - Fresh Segments
-
-<p align="center">
-XXX
+![8](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/91e5d8be-22d2-41e4-a8fe-33f2bc21e9e6)
 
 ## 📕 Table of Contents
 * [Business Task]
@@ -20,13 +18,12 @@ Danny has asked for your assistance to analyse aggregated metrics for an example
 
 ---
 ## 🔐 Entity Relationship Diagram
-<p align="center">
-XXX
+![e8-updated](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/99cd2f6a-d159-41ab-b17e-5d890420796d)
 
 ---
 ## ❓ Case Study Questions
 ### A. Data Exploration and Cleansing
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%238%20-%20Fresh%20Segments/A.%20Data%20Exploration%20and%20Cleaning.md)
 
 1. Update the `fresh_segments.interest_metrics` table by modifying the `month_year` column to be a date data type with the start of the month
 2. What is count of records in the `fresh_segments.interest_metrics` for each `month_year` value sorted in chronological order (earliest to latest) 
@@ -43,7 +40,7 @@ Do you think these values are valid and why?
 
 ---
 ### B. Interest Analysis
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%238%20-%20Fresh%20Segments/B.%20Interest%20Analysis.md)
 
 1. Which interests have been present in all `month_year` dates in our dataset?
 2. Using this same `total_months` measure - calculate the cumulative percentage of all records starting at 14 months - which `total_months` value 
@@ -57,7 +54,7 @@ what it means to have less months present from a segment perspective.
 
 ---
 ### C. Segment Analysis
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%238%20-%20Fresh%20Segments/C.%20Segment%20Analysis.md)
 
 1. Using our filtered dataset by removing the interests with less than 6 months worth of data, 
 which are the top 10 and bottom 10 interests which have the largest composition values in any `month_year`? 
@@ -71,7 +68,7 @@ What sort of products or services should we show to these customers and what sho
 
 ---
 ### D. Index Analysis
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%238%20-%20Fresh%20Segments/D.%20Index%20Analysis.md)
 
 The `index_value` is a measure which can be used to reverse calculate the average composition for Fresh Segments’ clients.
 
@@ -102,7 +99,3 @@ Required output for question 4:
 | 2019-07-01 | Las Vegas Trip Planners       | 2.82                  | 3.33               | Las Vegas Trip Planners: 2.77     | Readers of Honduran Content: 4.41  |
 | 2019-08-01 | Cosmetics and Beauty Shoppers | 2.73                  | 2.77               | Las Vegas Trip Planners: 2.82     | Las Vegas Trip Planners: 2.77      |
 
----
-## 🚀 My Solution
-* View the complete syntax [HERE]XXX
-* View the result and explanation [HERE]XXX
