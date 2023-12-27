@@ -1,5 +1,6 @@
 # 🛒 Case Study #5 - Data Mart
-![5](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/88ad54d9-55c1-45b6-ab4b-b39bce2f4114)
+<p align="center">
+<img src="https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/4.png" align="center" width="400" height="400" >
 
 ## 📕 Table of Contents
 * [Business Task]
