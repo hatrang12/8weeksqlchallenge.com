@@ -1,5 +1,6 @@
 # 👕 Case Study #7 - Balanced Tree Clothing Co.
-![7](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/0feb00af-d0e6-4a7b-9f33-2a5dcffc213f)
+<p align="center">
+<img src="https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/7.png" align="center" width="400" height="400" >
 
 ## 📕 Table of Contents
 * [Business Task]
