@@ -1,6 +1,6 @@
 # 📊 Case Study #4 - Data Bank
-<p align="center">
-xxx
+![4](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/8df2bdbc-9b9b-4abf-9f40-c97d29c426ba)
+
 
 ## 📕 Table of Contents
 * [Business Task]
@@ -18,13 +18,12 @@ This case study is all about calculating metrics, growth and helping the busines
 
 ---
 ## 🔐 Entity Relationship Diagram
-<p align="center">
-XXX
+![Capture](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/37d6b7d8-1cf5-4d67-b7e9-236dc171141a)
 
 ---
 ## ❓ Case Study Questions
 ### A. Customer Nodes Exploration
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%234%20-%20Data%20Bank/A.%20Customer%20Nodes%20Exploration.md)
 
 1. How many unique nodes are there on the Data Bank system?
 2. What is the number of nodes per region?
@@ -34,7 +33,7 @@ View my solution [HERE]XXX
 
 ---
 ### B. Customer Transactions
-View my solution [HERE]XXX
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%234%20-%20Data%20Bank/B.%20Customer%20Transactions.md)
 
 1. What is the unique count and total amount for each transaction type?
 2. What is the average total historical deposit counts and amounts for all customers?
@@ -42,7 +41,3 @@ View my solution [HERE]XXX
 4. What is the closing balance for each customer at the end of the month?
 5. What is the percentage of customers who increase their closing balance by more than 5%?
 
----
-## 🚀 My Solution
-  * View the complete syntax [HERE]XXX
-  * View the result and explanation [HERE]XXX
