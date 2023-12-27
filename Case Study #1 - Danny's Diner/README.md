@@ -1,5 +1,6 @@
 # 🍜 Case Study #1 - Danny's Diner
-![1](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/72a8dd90-e539-4fe4-af1b-ad0f6f059362)
+<p align="center">
+<img src="https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/1.png" align="center" width="400" height="400" >
 
 ---
 ## 🛠️ Business Task
