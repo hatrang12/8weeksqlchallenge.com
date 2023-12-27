@@ -1,9 +1,8 @@
 # 🛒 Case Study #5 - Data Mart
-<p align="center">
-<img src="https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/IMG/5.png" align="center" width="400" height="400" >
+![5](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/88ad54d9-55c1-45b6-ab4b-b39bce2f4114)
 
 ## 📕 Table of Contents
-* [Bussiness Task]
+* [Business Task]
 * [Entity Relationship Diagram]
 * [Case Study Questions]
 * [My Solution]
@@ -22,13 +21,12 @@ The key business question to answer are the following:
 
 ---
 ## 🔐 Entity Relationship Diagram
-<p align="center">
-XXX
+![Capture](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/cfa7b67f-be4a-439c-893b-2479596c7b5e)
 
 ---
 ## ❓ Case Study Questions
-### A. Data Cleansing Steps
-View my solution [HERE]XXX.
+### A. Data Cleaning Steps
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%235%20-%20Data%20Mart/A.%20Data%20Cleaning.md)
   
 In a single query, perform the following operations and generate a new table in the ```data_mart``` schema named ```clean_weekly_sales```:
   * Convert the ```week_date``` to a ```DATE``` format
@@ -55,7 +53,7 @@ In a single query, perform the following operations and generate a new table in 
 
 ---
 ### B. Data Exploration
-View my solution [HERE]XXX.
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%235%20-%20Data%20Mart/B.%20Data%20Exploration.md)
   
 1. What day of the week is used for each ```week_date``` value?
 2. What range of week numbers are missing from the dataset?
@@ -69,7 +67,7 @@ View my solution [HERE]XXX.
 
 ---
 ### C. Before & After Analysis
-View my solution [HERE]XXX.
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%235%20-%20Data%20Mart/C.%20Before%20%26%20After%20Analysis.md)
   
 This technique is usually used when we inspect an important event and want to inspect the impact before and after a certain point in time.
 Taking the week_date value of 2020-06-15 as the baseline week where the Data Mart sustainable packaging changes came into effect.
@@ -83,7 +81,7 @@ Using this analysis approach - answer the following questions:
 
 ---
 ### D. Bonus Question
-View my solution [HERE]XXX.
+View my solution [HERE](https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/Case%20Study%20%235%20-%20Data%20Mart/D.%20Bonus%20Question.md)
   
 Which areas of the business have the highest negative impact in sales metrics performance in 2020 for the 12 week before and after period?
   * ```region```
@@ -92,8 +90,3 @@ Which areas of the business have the highest negative impact in sales metrics pe
   * ```demographic```
   * ```customer_type```
 Do you have any further recommendations for Danny’s team at Data Mart or any interesting insights based off this analysis?
-
----
-## 🚀 My Solution
-* View the complete syntax [HERE]XXX
-* View the result and explanation [HERE]XXX
