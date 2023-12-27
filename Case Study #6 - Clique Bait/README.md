@@ -1,5 +1,6 @@
 # 🐟 Case Study #6 - Clique Bait
-![6](https://github.com/hatrang12/8weeksqlchallenge.com/assets/107136018/b06bcdb8-dea1-4070-b44f-b12d184549e9)
+<p align="center">
+<img src="https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/6.png" align="center" width="400" height="400" >
 
 ## 📕 Table of Contents
 * [Business Task]
