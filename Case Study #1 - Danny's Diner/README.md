@@ -4,7 +4,7 @@
 
 Table of content
 1. [Business Task](#Business-Task)
-2. [Entity Relationship Diagram](#entity-relationship-diagram)
+2. [Entity Relationship Diagram](#🔐-entity-relationship-diagram)
 3. [Case Study Questions](#case-study-questions)
 ---
 ## Business Task
