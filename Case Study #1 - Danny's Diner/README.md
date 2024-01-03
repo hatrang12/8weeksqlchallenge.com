@@ -3,7 +3,7 @@
 <img src="https://github.com/hatrang12/8weeksqlchallenge.com/blob/main/1.png" align="center" width="400" height="400" >
 
 Table of content
-1. [Business Task] (#Business-Task)
+1. [Business Task](#Business-Task)
 
 ---
 ## 🛠️ Business Task
